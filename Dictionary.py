@@ -59,3 +59,7 @@ birthday= datetime(1996,10,30)
 sentence = f'Vikrant has a birthday on {birthday:%B %d,%Y}'
 print(sentence)
 
+
+fav_numbers ={'Eric':17,"Marks":45}
+for name,number in fav_numbers.items():
+    print('Eric loves {}'.format(name,number))

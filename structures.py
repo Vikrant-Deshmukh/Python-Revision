@@ -5,6 +5,26 @@ print(len(courses))
 print(courses[0:2])
 print((courses[-1]))
 
+#Make a list.
+bikes =['Honda','Yahama','Bajaj','Harely davidason']
+#looping through the list.
+for items in bikes:
+    print(items)
+
+#Adding items to a list.
+bikes.append('trek')
+print(bikes)
+
+squares =[]
+for x in range(1,11):
+    squares.append(x**2)
+
+#List comprehension.
+squares =[x**2 for x in range(1,11)]
+print(squares)
+
+
+
 #Add at end of the list.
 courses.append('Art')
 print(courses)
@@ -53,6 +73,8 @@ courses_str = ','.join(courses)
 new_list = courses_str.split('-')
 print(courses_str)
 print(new_list)
+
+#----------------------------------------------------------------
 
 #Tuples- Are not mutable -cannot be modified
 #textbook = ('DMBS','CNS','WNL')
