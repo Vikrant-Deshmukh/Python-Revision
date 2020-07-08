@@ -35,7 +35,6 @@ from Mumbai"""
 print(message3)
 
 
-
 #Print lenght of string
 print(len(message3))
 
@@ -54,7 +53,7 @@ print(message.find('Orignal'))
 
 person_name = "Vikrant Deshmukh"
 #Instead of making new message varibale set the same varibale = to the replacement
-person_name = person_name.replace('Vikrant','King')
+person_name = person_name.replace('Vikrant','Deshmukh')
 print(person_name)
 
 #Concatenate 
