@@ -9,16 +9,14 @@ sentence = "I hope you are enjoying 30 days of python challenge"
 print(sentence)
 print('Hello Vikrant!')
 print('This is a Print Function!')
-
 message = 'Orignal message'
 print(message)
 
 #Variables should be underscore or should start with _ and should be descriptive.
-
 message1 = 'Vikrant\'s World'
 print(message1)
-
 message2 = "Vikrant's World"
+
 #Use single quote if string contains double quote and vice versa.
 # Multiline String
 multiline_string = '''I am a teacher and enjoy teaching.

@@ -18,10 +18,7 @@ elif lang == 'Javascript':
 else:
     print('no match')
 
-#Boolean 
-#and
-#or
-#not
+#Boolean #and #or #not
 
 user ='Admin'
 logged_in = True
@@ -53,3 +50,6 @@ if condition:
 else:
     print('Evaluation is false')
    
+
+#----------------------------------------------------------------
+
