@@ -1,3 +1,4 @@
+Vikrant Deshmukh
 Python
 The below table largely covers the TOC for 5 popular books. Learning Python (Fourth Edition) has a more in-depth look at concepts than any of the other books. However this book also does not essentially cover some aspects that are covered in other books.
 No.	Diving into Python	The Python Standard Library by Example	Python Essential Reference (4th edition)	The Quick Python Book	Learning Python
